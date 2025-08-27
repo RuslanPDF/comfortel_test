@@ -1,1 +1,2 @@
-# comfortel_test
+npm i
+npm run start:dev
